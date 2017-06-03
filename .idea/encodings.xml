@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.editorconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/dev-server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/webpack.base.conf.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/common/stylus/base.styl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/common/stylus/icon.styl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/common/stylus/index.styl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/common/stylus/mixin.styl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/cartcontrol/cartcontrol.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/goods/goods.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/header/header.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/ratings/ratings.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/seller/seller.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/shopcart/shopcart.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/star/star.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main.js" charset="UTF-8" />
+  </component>
+</project>
